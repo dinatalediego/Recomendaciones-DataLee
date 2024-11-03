@@ -1,0 +1,2 @@
+Carpeta para almacenar archivos de
+ datos como CSV o JSON que puedas usar en tus visualizaciones.
